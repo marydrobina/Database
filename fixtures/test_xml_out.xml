@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCityEntity xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CityEntity>
+    <Name>Moscow</Name>
+    <Population>300</Population>
+    <Square>14</Square>
+  </CityEntity>
+  <CityEntity>
+    <Name>Voronezh</Name>
+    <Population>100</Population>
+    <Square>3</Square>
+  </CityEntity>
+  <CityEntity>
+    <Name>New York</Name>
+    <Population>1000</Population>
+    <Square>24</Square>
+  </CityEntity>
+  <CityEntity>
+    <Name>LA</Name>
+    <Population>500</Population>
+    <Square>20</Square>
+  </CityEntity>
+</ArrayOfCityEntity>
